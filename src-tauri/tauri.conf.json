@@ -42,6 +42,9 @@
         "providerShortName": null,
         "signingIdentity": null
       },
+      "iOS": {
+        "developmentTeam": "logan"
+      },
       "resources": [],
       "shortDescription": "",
       "targets": "all",
